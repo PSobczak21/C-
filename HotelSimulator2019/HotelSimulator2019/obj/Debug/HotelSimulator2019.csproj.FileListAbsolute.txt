@@ -1,0 +1,6 @@
+D:\HotelSimulator2019\HotelSimulator2019\bin\Debug\HotelSimulator2019.exe.config
+D:\HotelSimulator2019\HotelSimulator2019\bin\Debug\HotelSimulator2019.exe
+D:\HotelSimulator2019\HotelSimulator2019\bin\Debug\HotelSimulator2019.pdb
+D:\HotelSimulator2019\HotelSimulator2019\obj\Debug\HotelSimulator2019.csprojAssemblyReference.cache
+D:\HotelSimulator2019\HotelSimulator2019\obj\Debug\HotelSimulator2019.exe
+D:\HotelSimulator2019\HotelSimulator2019\obj\Debug\HotelSimulator2019.pdb
